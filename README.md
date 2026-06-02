@@ -32,6 +32,6 @@
 ---
 (instead of making this look cool, i should've actually coded smth)
 ## Contact
-
+- (looking for contributors)
 - Discord: 5a4n
 - GitHub Issues for bugs and feature requests
